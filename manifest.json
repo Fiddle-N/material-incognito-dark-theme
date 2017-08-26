@@ -1,35 +1,36 @@
 {
-	"manifest_version":2,
+	"manifest_version": 2,
 
-	"name":"Material Incognito Dark Theme",
-	"description":"A theme that adds the dark Incognito Mode colour scheme to the normal mode of Chrome.",
-	"version":"2.1.0",
+	"name": "Material Incognito Dark Theme",
+	"description": "A theme that adds the dark Incognito Mode colour scheme to the normal mode of Chrome.",
+	"version": "2.2.0",
 
-	"theme":{
-		"images":{
+	"theme": {
+		"images": {
 			"theme_ntp_background":"images/theme_ntp_background.png",
-			"theme_toolbar":"images/theme_toolbar.png",
-			"theme_tab_background":"images/theme_tab_background.png",
-			"theme_tab_background_incognito":"images/theme_tab_background.png",
-			"theme_tab_background_v":"images/theme_tab_background.png"
+			"theme_toolbar": "images/theme_toolbar.png",
+			"theme_tab_background": "images/theme_tab_background.png",
+			"theme_tab_background_incognito": "images/theme_tab_background.png",
+			"theme_tab_background_v": "images/theme_tab_background.png"
 		},
-		"colors":{
-			"frame":[70,70,70],
-			"frame_inactive":[70,70,70],
-			"frame_incognito":[70,70,70],
-			"frame_incognito_inactive":[255,255,255],
-			"toolbar":[80,80,80],
-			"tab_text":[255,255,255],
-			"tab_background_text":[255,255,255],
-			"bookmark_text":[255,255,255],
-			"ntp_background":[50,50,50],
-			"ntp_text":[255,255,255]
+		"colors": {
+			"frame": [70, 70, 70],
+			"frame_inactive": [70, 70, 70],
+			"frame_incognito": [70, 70, 70],
+			"frame_incognito_inactive": [255, 255, 255],
+			"toolbar": [80, 80, 80],
+			"tab_text": [255, 255, 255],
+			"tab_background_text": [255, 255, 255],
+			"bookmark_text": [255, 255, 255],
+			"ntp_background": [48, 48, 48],
+			"ntp_text": [255, 255, 255]
 		},
-		"tints":{
-			"buttons":[0,0,0.85]
+		"tints": {
+			"buttons": [0, 0, 0.85]
 		},
 		"properties": {
-			"ntp_logo_alternate": 1
+			"ntp_logo_alternate": 1,
+			"ntp_background_repeat": "repeat"
 		}
 	}
 }
