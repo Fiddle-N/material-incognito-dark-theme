@@ -17,7 +17,11 @@ All elements of the official Incognito mode dark colour scheme have been ported 
 
 1. The URL bar cannot be coloured and must stay white. 
 
-I could rectify this for Windows users by using Stardock's WindowBlinds software, but this would cost me $10 to develop the solution and $10 for every person that wants to use it. If enough people ask for this in the comments, I will follow through and develop a solution, but otherwise it's a waste of money for all involved.
+You can use the [Penumbra theme](https://scope10.deviantart.com/art/Penumbra-10-Windows-10-visual-style-568740374), which provides a system-wide dark theme on Windows.
+
+![Penumbra](https://i.imgur.com/C2emXHk.png)
+
+~~I could rectify this for Windows users by using Stardock's WindowBlinds software, but this would cost me $10 to develop the solution and $10 for every person that wants to use it. If enough people ask for this in the comments, I will follow through and develop a solution, but otherwise it's a waste of money for all involved.~~
 
 2. The bookmark bar colour is a lighter grey when compared to the official Incognito mode dark colour scheme. 
 
