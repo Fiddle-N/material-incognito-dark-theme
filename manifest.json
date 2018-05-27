@@ -3,7 +3,7 @@
 
 	"name": "Material Incognito Dark Theme",
 	"description": "A theme that adds the dark Incognito Mode colour scheme to the normal mode of Chrome.",
-	"version": "3.0.0",
+	"version": "3.0.1",
 
 	"theme": {
 		"images": {
