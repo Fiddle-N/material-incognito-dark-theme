@@ -1,8 +1,6 @@
 # Material Incognito Dark Theme
 A theme that adds the dark Incognito Mode colour scheme to the normal mode of Chrome.
 
-**Windows 10 users - please go to chrome://flags, scroll down to Custom-drawn Windows 10 Titlebar and press Enable. This will enable titlebar colour.**
-
 Incognito mode currently uses a dark colour scheme to distinguish it from normal mode. This theme imitates that colour scheme and applies it throughout the whole browser.
 
 ### Installation
