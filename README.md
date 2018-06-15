@@ -1,22 +1,12 @@
-# Material Incognito Dark Theme
-A theme that adds the dark Incognito Mode colour scheme to the normal mode of Chrome.
+# Material Incognito Dark Theme (md2)
 
-Incognito mode currently uses a dark colour scheme to distinguish it from normal mode. This theme imitates that colour scheme and applies it throughout the whole browser.
+WARNING: THIS UNLISTED VERSION OF MY THEME IS PRERELEASE ONLY AND WILL EVENTUALLY BE ABANDONED. 
 
-### Installation
-Install the theme from the Chrome Web Store [here](https://chrome.google.com/webstore/detail/material-incognito-dark-t/ahifcnpnjgbadkjdhagpfjfkmlapfoel).
+Hey there! You've just stumbled across the next major release of my new theme. As part of Google's Material Design 2 phase, Chrome is being updated with a new look and colour scheme. As a result, all my themes are being modified accordingly to fit. This prerelease version of my new theme matches the colour scheme of Chrome's new md2 look. 
 
-### Github
-This theme is fully open-source under the Apache License. Check out the source code on [Github](https://github.com/Fiddle-N/material-incognito-dark-theme/).
+The public version of my theme will be updated to this new version when Chrome's new look is rolled out to everybody. At that point, this unlisted version will be removed. If, however, you are still itching to try out this new version, please follow the steps below:
 
-### Limitations
-All elements of the official Incognito mode dark colour scheme have been ported over where possible. Unfortunately, Chrome bugs and limitations mean that I can't reproduce it with 100% full-fidelity. These are as follows:
+1. Navigate to chrome://flags/#top-chrome-md and set it to Refresh.
+2. Install this prerelease version of the theme ([link here](https://chrome.google.com/webstore/detail/material-incognito-dark-t/kgifoiclgcbblgimgcahpikmdphcalda)).
 
-1. The URL bar cannot be coloured and must stay white. 
-
-Chrome theme devs currently have no ability to colour the address bar.
-
-2. The bookmark bar colour is a lighter grey when compared to the official Incognito mode dark colour scheme. 
-
-This is for a couple of reasons. Firstly, choosing a darker colour messes up the Incognito mode guy colour in the top left corner. Secondly, the colours of the bookmark bar, the download bar and the status bar that appears when hovering over a link are tied to each other. The status bar colour is currently accurate, but the bookmark bar colour cannot be made accurate without making the status bar colour inaccurate and vice versa. This catch-22 situation is why the bookmark bar colour is currently inaccurate.
-
+Comments are appreciated.
