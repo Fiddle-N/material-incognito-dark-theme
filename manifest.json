@@ -3,7 +3,7 @@
 
 	"name": "Material Incognito Dark Theme (md2)",
 	"description": "A theme that adds the dark Incognito Mode colour scheme to the normal mode of Chrome.",
-	"version": "4.4.0",
+	"version": "4.5.0",
 
 	"icons": {
 		"128": "images/icon128.png"
@@ -11,8 +11,7 @@
 
 	"theme": {
 		"images": {
-			"theme_ntp_background": "images/theme_toolbar.png",
-			"theme_toolbar": "images/theme_toolbar.png"
+			"theme_ntp_background": "images/theme_ntp_background.png"
 		},
 		"colors": {
 			"frame": [32, 33, 36],
