@@ -3,30 +3,31 @@
 
 	"name": "Material Incognito Dark Theme",
 	"description": "A theme that adds the dark Incognito Mode colour scheme to the normal mode of Chrome.",
-	"version": "3.0.1",
+
+	"version": "5.0.0",
+
+	"icons": {
+		"128": "images/icon128.png"
+	},
 
 	"theme": {
 		"images": {
-			"theme_ntp_background": "images/theme_ntp_background.png",
-			"theme_toolbar": "images/theme_toolbar.png",
-			"theme_tab_background": "images/theme_tab_background.png",
-			"theme_tab_background_incognito": "images/theme_tab_background.png",
-			"theme_tab_background_v": "images/theme_tab_background.png"
+			"theme_ntp_background": "images/theme_ntp_background.png"
 		},
 		"colors": {
-			"frame": [40, 43, 45],
-			"frame_inactive": [56, 59, 61],
-			"frame_incognito": [40, 43, 45],
-			"frame_incognito_inactive": [56, 59, 61],
-			"toolbar": [80, 80, 80],
-			"tab_text": [255, 255, 255],
-			"tab_background_text": [255, 255, 255],
-			"bookmark_text": [255, 255, 255],
-			"ntp_background": [48, 48, 48],
+			"frame": [32, 33, 36],
+			"frame_inactive": [60, 64, 67],
+			"frame_incognito": [32, 33, 36],
+			"frame_incognito_inactive": [60, 64, 67],
+			"toolbar": [50, 54, 57],
+			"tab_text": [241, 243, 244],
+			"tab_background_text": [154, 160, 166],
+			"bookmark_text": [241, 243, 244],
+			"ntp_background": [50, 54, 57],
 			"ntp_text": [255, 255, 255]
 		},
 		"tints": {
-			"buttons": [0, 0, 0.85]
+			"buttons": [-1, -1, 0.96]
 		},
 		"properties": {
 			"ntp_logo_alternate": 1,
