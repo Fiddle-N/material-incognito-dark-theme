@@ -1,12 +1,13 @@
-# Material Incognito Dark Theme (md2)
+# Material Incognito Dark Theme
+Updated for the new Chrome redesign! Please update to Chrome v69 for full compatibility with this theme. 
 
-WARNING: THIS UNLISTED VERSION OF MY THEME IS PRERELEASE ONLY AND WILL EVENTUALLY BE ABANDONED. 
+Incognito mode currently uses a dark colour scheme to distinguish it from normal mode. This theme imitates that colour scheme and applies it throughout the whole browser.
 
-Hey there! You've just stumbled across the next major release of my new theme. As part of Google's Material Design 2 phase, Chrome is being updated with a new look and colour scheme. As a result, all my themes are being modified accordingly to fit. This prerelease version of my new theme matches the colour scheme of Chrome's new md2 look. 
+### Installation
+Install the theme from the Chrome Web Store [here](https://chrome.google.com/webstore/detail/material-incognito-dark-t/ahifcnpnjgbadkjdhagpfjfkmlapfoel).
 
-The public version of my theme will be updated to this new version when Chrome's new look is rolled out to everybody. At that point, this unlisted version will be removed. If, however, you are still itching to try out this new version, please follow the steps below:
+### Github
+This theme is fully open-source under the Apache License. Check out the source code on [Github](https://github.com/Fiddle-N/material-incognito-dark-theme/).
 
-1. Navigate to chrome://flags/#top-chrome-md and set it to Refresh.
-2. Install this prerelease version of the theme ([link here](https://chrome.google.com/webstore/detail/material-incognito-dark-t/kgifoiclgcbblgimgcahpikmdphcalda)).
-
-Comments are appreciated.
+### Limitations
+Chrome theme devs currently have no ability to colour the omnibox. As a result, the omnibox will always be white.
