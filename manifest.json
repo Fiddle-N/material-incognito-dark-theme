@@ -21,7 +21,10 @@
 			"frame_incognito_inactive": [60, 64, 67],
 			"toolbar": [50, 54, 57],
 			"tab_text": [241, 243, 244],
-			"tab_background_text": [154, 160, 166],
+			"tab_background_text": [189, 193, 198],
+			"tab_background_text_incognito": [189, 193, 198],
+			"tab_background_text_inactive": [168, 171, 175],
+			"tab_background_text_incognito_inactive": [168, 171, 175],
 			"bookmark_text": [241, 243, 244],
 			"ntp_background": [50, 54, 57],
 			"ntp_text": [255, 255, 255]
