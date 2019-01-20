@@ -12,7 +12,8 @@
 
 	"theme": {
 		"images": {
-			"theme_ntp_background": "images/theme_ntp_background.png"
+			"theme_toolbar": "images/material_refresh_grey.png",
+			"theme_ntp_background": "images/material_refresh_grey.png"
 		},
 		"colors": {
 			"frame": [32, 33, 36],
