@@ -2,9 +2,9 @@
 	"manifest_version": 2,
 
 	"name": "Material Incognito Dark Theme",
-	"description": "A theme that adds the dark Incognito Mode colour scheme to the normal mode of Chrome.",
+	"description": "This theme has been deprecated in favour of the official Google Chrome dark theme.",
 
-	"version": "5.1.0",
+	"version": "5.2.0",
 
 	"icons": {
 		"128": "images/icon128.png"
@@ -28,7 +28,9 @@
 			"tab_background_text_incognito_inactive": [168, 171, 175],
 			"bookmark_text": [241, 243, 244],
 			"ntp_background": [50, 54, 57],
-			"ntp_text": [255, 255, 255]
+			"ntp_text": [255, 255, 255],
+			"omnibox_background": [32, 33, 36],
+			"omnibox_text": [255, 255, 255]
 		},
 		"tints": {
 			"buttons": [-1, -1, 0.96]
